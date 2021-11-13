@@ -1,0 +1,33 @@
+#root {
+  min-height: 120%;
+  width: 100%;
+}
+
+
+
+  .ant-modal-footer {
+    text-align: left;
+
+    .ant-btn {
+      border-radius: 20px;
+      margin-left: 10px;
+
+      &.ant-btn-primary {
+        float: left;
+      }
+    }
+  
+   
+  }
+
+
+  .ant-col {
+
+    &.ant-col-2 {
+
+      &.ant-form-item-label {
+        text-align: left;
+        padding-right: 140px;
+      }
+    }
+  }

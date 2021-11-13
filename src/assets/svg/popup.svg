@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="323" height="49" viewBox="0 0 323 49">
+  <g id="Group_4065" data-name="Group 4065" transform="translate(-795 -1101.5)">
+    <rect id="Rectangle_44" data-name="Rectangle 44" width="323" height="49" rx="4" transform="translate(795 1101.5)" fill="#268e6c"/>
+    <g id="baseline-close-24px" transform="translate(1084 1114)">
+      <path id="Path_1998" data-name="Path 1998" d="M15,6.007,13.993,5,10,8.993,6.007,5,5,6.007,8.993,10,5,13.993,6.007,15,10,11.007,13.993,15,15,13.993,11.007,10Z" transform="translate(2 2)" fill="#fff"/>
+      <path id="Path_1999" data-name="Path 1999" d="M0,0H24V24H0Z" fill="none"/>
+    </g>
+    <line id="Line_17" data-name="Line 17" y2="32" transform="translate(1074 1110.5)" fill="none" stroke="rgba(255,255,255,0.38)" stroke-width="1"/>
+    <text id="Text" transform="translate(851 1131)" fill="#fff" font-size="14" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Successfully saved the report</tspan></text>
+    <g id="baseline-check_circle-24px" transform="translate(811 1114)">
+      <path id="Path_197" data-name="Path 197" d="M0,0H24V24H0Z" fill="none"/>
+      <path id="Path_198" data-name="Path 198" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2ZM10,17,5,12l1.41-1.41L10,14.17l7.59-7.59L19,8Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
